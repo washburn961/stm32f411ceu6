@@ -15,7 +15,7 @@
 
 #include "stm32f411ceu6.h"
 
-uint32_t washburn = 100;
+uint32_t test_1 = 100;
 
 int main(void)
 {
