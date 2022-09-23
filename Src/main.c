@@ -16,10 +16,15 @@
  ******************************************************************************
  */
 
-#include <stdint.h>
+#include "stm32f411ceu6.h"
+
+uint32_t washburn = 100;
 
 int main(void)
 {
     /* Loop forever */
-	for(;;);
+	while(1)
+    {
+
+    }
 }
